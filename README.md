@@ -1,3 +1,3 @@
 # flux-redux-counter-decrease-increase
 
-![alt text](https://github.com/josearangoj/express-react-get-load-image/blob/main/screenshots/v0/submit-picture.jpg)
+![alt text](https://github.com/josearangoj/flux-redux-counter-decrease-increase/blob/main/sample.jpg)
